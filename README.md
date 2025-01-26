@@ -37,7 +37,9 @@ The resulting chart should look as follows:
 + Loop through each key-value pair from the metadata JSON object and create a text string.
 + Append an html tag with that text to the #sample-metadata panel.
 
+
 The resulting table should look as follows:
+
 ![Screenshot 2025-01-24 at 9 57 37 p m](https://github.com/user-attachments/assets/4b75c750-c32d-49c3-8b93-938201752ced)
 
 5. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
