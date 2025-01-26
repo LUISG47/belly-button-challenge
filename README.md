@@ -6,6 +6,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 Url of the app within github pages: https://luisg47.github.io/belly-button-challenge/
 
+The file app.js with the code of the app is located on the static/js folder 
 
 ## Instructions
 
