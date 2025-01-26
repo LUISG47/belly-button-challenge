@@ -18,6 +18,7 @@ Complete the following steps:
 + Use otu_ids as the labels for the bar chart.
 + Use otu_labels as the hovertext for the chart.
 
+The resulting chart should look as follows:
 ![Screenshot 2025-01-24 at 9 57 27 p m](https://github.com/user-attachments/assets/874f2efc-315e-4a5e-a13c-a82fe8ff95f8)
 
 3. Create a bubble chart that displays each sample.
@@ -28,6 +29,7 @@ Complete the following steps:
 + Use otu_ids for the marker colors.
 + Use otu_labels for the text values.
 
+The resulting chart should look as follows:
 ![Screenshot 2025-01-24 at 9 57 32 p m](https://github.com/user-attachments/assets/79b9f073-aaa0-40bf-8a5e-560b13bc6a2e)
 
 4. Display the sample's metadata, i.e., an individual's demographic information.
@@ -35,10 +37,12 @@ Complete the following steps:
 + Loop through each key-value pair from the metadata JSON object and create a text string.
 + Append an html tag with that text to the #sample-metadata panel.
 
+The resulting table should look as follows:
 ![Screenshot 2025-01-24 at 9 57 37 p m](https://github.com/user-attachments/assets/4b75c750-c32d-49c3-8b93-938201752ced)
 
 5. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
+The resulting layout should look as follows:
 ![Screenshot 2025-01-24 at 9 57 21 p m](https://github.com/user-attachments/assets/eb09f5cb-dbde-433f-b497-6c5bb1eddce0)
 
 
