@@ -11,7 +11,7 @@ Url of the app within github pages: https://luisg47.github.io/belly-button-chall
 
 Complete the following steps:
 
-1. Use the D3 library to read in samples.json from the URL https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json.
+1. Use the D3 library to read in samples.json from the URL https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json. (This file is also available on the root folder so you can see the structure or call it locally)
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 + Use sample_values as the values for the bar chart.
 + Use otu_ids as the labels for the bar chart.
@@ -44,5 +44,5 @@ Complete the following steps:
 
 
 
-6. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+6. Deploy your app to a free static page hosting service, such as GitHub Pages: https://luisg47.github.io/belly-button-challenge/
 
